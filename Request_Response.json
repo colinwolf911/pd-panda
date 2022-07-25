@@ -1,0 +1,58 @@
+
+/* Request */
+
+{
+    "TaskID": "f62b7b30-aaa5-4a09-ab18-4c12bdfb02de",
+    "Status": "DRAFT",
+    "EffectiveDate": "2021-05-22T00:00:00Z",
+    "Lines": [
+    {
+        "ProductID": "899f33cc-a82a-46c7-bf74-19600b34546f",
+        "Quantity": 233,
+        "UnitCost": 1,
+        "LocationID": "abd13f0b-289d-4d0b-828d-01651430ac3b"
+    }]
+}
+
+/* Response */
+{
+    "TaskID": "f62b7b30-aaa5-4a09-ab18-4c12bdfb02de",
+    "EffectiveDate": "2021-05-22T00:00:00Z",
+    "StocktakeNumber": "ST-600245",
+    "Status": "DRAFT",
+    "Account": "_39_",
+    "LocationID": null,
+    "Location": null,
+    "Reference": "",
+    "ExistingStockLines": [],
+    "NewStockLines": [
+    {
+        "ProductID": "899f33cc-a82a-46c7-bf74-19600b34546f",
+        "SKU": "CATDRPH12BLKM",
+        "ProductName": "Catalyst Influence Impact Case for iPhone 12 / 12 Pro - Black",
+        "Quantity": 233.0000,
+        "UnitCost": 1.0000000,
+        "LocationID": "abd13f0b-289d-4d0b-828d-01651430ac3b",
+        "Location": "MacGear",
+        "BatchSN": null,
+        "ExpiryDate": null,
+        "Comments": null,
+        "ProductLength": 1.0000,
+        "ProductWidth": 8.0000,
+        "ProductHeight": 15.0000,
+        "ProductWeight": 0.0000,
+        "WeightUnits": "",
+        "DimensionsUnits": "cm",
+        "ProductCustomField1": "",
+        "ProductCustomField2": "",
+        "ProductCustomField3": "",
+        "ProductCustomField4": "",
+        "ProductCustomField5": "",
+        "ProductCustomField6": "",
+        "ProductCustomField7": "",
+        "ProductCustomField8": "",
+        "ProductCustomField9": "",
+        "ProductCustomField10": ""
+    }],
+    "Transactions": []
+}
